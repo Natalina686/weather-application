@@ -12,7 +12,7 @@ function App() {
             This project was coded by{" "}
             <a
               className="contact"
-              href="https://app.netlify.com/teams/natalina686/overview"
+              href="https://iridescent-figolla-232c82.netlify.app"
               target="_blank"
               rel="noreferrer"
             >

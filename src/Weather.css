@@ -28,16 +28,16 @@ form {
   width: 20%;
   height: 45px;
   color: white;
-  border: 1px solid rgb(49, 97, 192);
+  border: 1px solid rgb(38, 146, 61);
   border-radius: 25px;
   box-shadow: 0 0 10px black;
   cursor: pointer;
-  background-color: rgb(49, 97, 192);
+  background-color: rgb(38, 146, 61);
   transition: background-color 0.3s;
 }
 
 .Submit-input:hover {
-  background-color: rgb(64 123 239);
+  background-color: rgb(38, 146, 61);
 }
 .TodayDate {
   display: flex;
@@ -51,9 +51,10 @@ form {
 }
 
 .City {
-  font-size: 35px;
+  font-size: 37px;
   display: flex;
   justify-content: center;
+  color: rgb(38, 146, 61);
 }
 
 .Description {
